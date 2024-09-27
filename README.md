@@ -1,6 +1,7 @@
 ### <samp>Hi there 👋, I'm Gia An</samp>
 
 <samp>A passionate backend developer from HCM city - Vietnam</samp>
+
 <samp>![](https://komarev.com/ghpvc/?username=vogiaan1904&style=flat-square&base=2000)</samp> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vogiaan1904&label=Profile%20views&color=0e75b6&style=flat" alt="vogiaan1904" /> </p>
 
