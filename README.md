@@ -1,7 +1,7 @@
 ### <samp>Hi there 👋, I'm Gia An</samp>
 
 <samp>A passionate backend developer from HCM city - Vietnam</samp>
-<samp> ![](https://komarev.com/ghpvc/?username=vogiaan1904&label=Profile%20views&color=0e75b6&style=flat" alt="vogiaan1904)</samp> 
+<samp>![](https://komarev.com/ghpvc/?username=vogiaan1904&style=flat-square&base=2000)</samp> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vogiaan1904&label=Profile%20views&color=0e75b6&style=flat" alt="vogiaan1904" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vogiaan1904)
