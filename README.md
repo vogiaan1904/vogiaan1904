@@ -1,4 +1,4 @@
-### <samp>Hi there 👋, I'm Gia An</samp>
+### <samp>Hi there 👋, I'm <a href="https://www.linkedin.com/in/vogiaan1904/" target="_blank">Gia An</a></samp>
 
 <samp>A passionate backend developer from HCM city - Vietnam</samp>
 
