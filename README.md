@@ -7,8 +7,10 @@
 
 🔭 <samp>I’m currently working on [E-learning-platform](https://github.com/vogiaan1904/E-Learning-Management-Backend)</samp>
 
-<p><img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vogiaan1904&show_icons=true&hide_border=true&locale=en&layout=compact" alt="vogiaan1904" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vogiaan1904&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&locale=en" alt="vogiaan1904" /></p>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?      username=vogiaan1904&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vogiaan1904&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&locale=en" alt="vogiaan1904" />
+</p>
 
 
 
