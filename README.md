@@ -16,11 +16,10 @@
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vogiaan1904&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&include_orgs=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogiaan1904&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vogiaan1904&" alt="vogiaan1904" /></p>
+
 
 
 <!--START_SECTION:waka-->
