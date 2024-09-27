@@ -1,5 +1,5 @@
 ### <samp>Hi there 👋, I'm Gia An</samp>
-</br>
+
 <samp>A passionate backend developer from HCM city - Vietnam</samp>
 
 <samp>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vogiaan1904)
