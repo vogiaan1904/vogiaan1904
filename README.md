@@ -1,6 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Gia An</h1>
-<h3 align="center">A passionate backend developer from HCM city - Vietnam</h3>
+## Hi there 👋, I'm Gia An
+<h3 >A passionate backend developer from HCM city - Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vogiaan1904&label=Profile%20views&color=0e75b6&style=flat" alt="vogiaan1904" /> </p>
 
