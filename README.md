@@ -24,14 +24,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 September 2024 - To: 28 September 2024
+From: 26 September 2024 - To: 29 September 2024
 
-Total Time: 6 hrs 22 mins
+Total Time: 12 hrs 39 mins
 
-TypeScript    5 hrs 34 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.43 %
-YAML          46 mins         >>>----------------------   12.06 %
-Prisma        1 min           -------------------------   00.48 %
-Image (svg)   0 secs          -------------------------   00.03 %
+TypeScript    11 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.68 %
+YAML          1 hr 9 mins     >>-----------------------   09.19 %
+Prisma        7 mins          -------------------------   00.96 %
+Other         0 secs          -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
