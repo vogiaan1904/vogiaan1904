@@ -31,14 +31,6 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🐱‍💻 Projects: 
-E-Learning-Management-Bac10 hrs 47 mins      █████████████████████░░░░   85.33 % 
-SocketChat               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-```
-
-
- Last Updated on 02/11/2024 18:41:49 UTC
+ Last Updated on 02/11/2024 18:42:59 UTC
 <!--END_SECTION:waka-->
