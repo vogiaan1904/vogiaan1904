@@ -31,13 +31,6 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🐱‍💻 Projects: 
-E-Learning-Management-Bac25 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/11/2024 18:46:44 UTC
+ Last Updated on 18/11/2024 18:48:19 UTC
 <!--END_SECTION:waka-->
