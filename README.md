@@ -19,6 +19,19 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%205%20mins-blue)
 
- Last Updated on 21/05/2025 18:49:10 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+tanca-talent-management  17 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.51 % 
+Trustify-Backend         3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+WEB-APP-Car-Rental-Servic3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+payment-svc              3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Trustify-Backend-Solana  2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+```
+
+
+ Last Updated on 22/05/2025 18:49:08 UTC
 <!--END_SECTION:waka-->
