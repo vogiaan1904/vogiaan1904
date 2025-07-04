@@ -19,16 +19,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-tanca-performance        36 hrs 39 mins      ███████████████████████░░   90.31 % 
-tanca-talent-management  3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+tanca-performance        34 hrs 47 mins      ██████████████████████░░░   86.85 % 
+tanca-talent-management  3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+order-svc                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+nestjs-microservice      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+payment-svc              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 
- Last Updated on 03/07/2025 18:49:45 UTC
+ Last Updated on 04/07/2025 18:48:50 UTC
 <!--END_SECTION:waka-->
