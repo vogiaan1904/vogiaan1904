@@ -19,6 +19,19 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%2051%20mins-blue)
 
- Last Updated on 30/07/2025 18:54:51 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+tanca-api                9 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
+tanca-performance        9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+portfolio-website        5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+scripts                  3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+tanca-talent-management  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+```
+
+
+ Last Updated on 31/07/2025 18:55:01 UTC
 <!--END_SECTION:waka-->
