@@ -19,19 +19,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C476%20hrs%2054%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-ticketbottle-event       9 hrs 2 mins        █████████████░░░░░░░░░░░░   52.07 % 
-ticketbottle-api-gateway 3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-ticketbottle-waitroom    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-ticketbottle-proto       52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-ticketbottle-user        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-```
-
-
- Last Updated on 02/10/2025 18:45:18 UTC
+ Last Updated on 03/10/2025 18:46:07 UTC
 <!--END_SECTION:waka-->
