@@ -19,19 +19,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C547%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C547%20hrs%2034%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-ticketbottle-order       9 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.28 % 
-ticketbottle-payment     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-ticketbottle-inventory   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-ticketbottle-event       2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-ticketbottle-waitroom    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+ticketbottle-order       8 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.21 % 
+ticketbottle-payment     2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+ticketbottle-inventory   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+ticketbottle-event       2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+TicketBottleV2           1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 
 
- Last Updated on 24/10/2025 18:46:49 UTC
+ Last Updated on 25/10/2025 18:45:14 UTC
 <!--END_SECTION:waka-->
