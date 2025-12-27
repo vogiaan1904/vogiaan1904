@@ -19,17 +19,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C613%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C615%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-thesis-management-system 2 hrs 33 mins       █████████████████████████   99.33 % 
-TicketBottleV2           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-ticketbottle-user        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+thesis-management-system 2 hrs 43 mins       ██████████████░░░░░░░░░░░   55.74 % 
+tanca-performance        1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+tanca-talent-management  59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+TicketBottleV2           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+ticketbottle-order       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 26/12/2025 18:50:55 UTC
+ Last Updated on 27/12/2025 18:49:48 UTC
 <!--END_SECTION:waka-->
