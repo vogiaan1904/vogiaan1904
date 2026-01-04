@@ -19,6 +19,16 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C624%20hrs%2046%20mins-blue)
 
- Last Updated on 03/01/2026 18:50:14 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+thesis-management-system 42 mins             ███████████████████████░░   91.17 % 
+tanca-performance        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+```
+
+
+ Last Updated on 04/01/2026 18:50:08 UTC
 <!--END_SECTION:waka-->
